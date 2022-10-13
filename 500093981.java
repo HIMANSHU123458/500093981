@@ -1,3 +1,4 @@
+//program starts
 public class ReverseNumberExample1   
 {  
 public static void main(String[] args)   
@@ -11,4 +12,4 @@ number = number/10;
 }  
 System.out.println("The reverse of the given number is: " + reverse);  
 }  
-}  
+}  //end of the program
